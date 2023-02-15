@@ -1,3 +1,4 @@
+![alt text](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/dtmf.jpg)
 # Dual Tone Multi-Frequency Decoder
 Dual Tone Multi-Frequency Decoder made using python
 
