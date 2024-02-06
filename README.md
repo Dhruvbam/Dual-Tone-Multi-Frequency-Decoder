@@ -2,7 +2,7 @@
 # Dual Tone Multi-Frequency (DTMF) Decoder
 
 ## Overview
-This project presents a Dual Tone Multi-Frequency (DTMF) Decoder developed in Python. Aimed at decoding telephone keypad digits, our team of three utilized data science and machine learning libraries alongside Python scripting to analyze audio files. By employing Fast Fourier Transform (FFT), we accurately decoded WAV format tones into their corresponding numeric digits.
+As the project leader for CS 1330 - Computational Thinking Data Science, I led a team to develop a Dual Tone Multi-Frequency (DTMF) Decoder in Python. This innovative project combines data science and machine learning libraries with Python scripting to decode telephone keypad digits from WAV audio files. By integrating Fast Fourier Transform (FFT), we not only analyzed audio signals but also matched them with their corresponding numeric digits, showcasing our ability to efficiently decode DTMF signals and highlighting our team's technical proficiency.
 
 ## Features
 - **DTMF Encoding & Decoding**: Generates frequencies for dial tones and decodes them back to digits.
