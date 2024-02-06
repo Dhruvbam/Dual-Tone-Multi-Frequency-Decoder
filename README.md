@@ -1,6 +1,23 @@
 ![alt text](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/dtmf.jpg)
-# Dual Tone Multi-Frequency Decoder
-Dual Tone Multi-Frequency Decoder made using python
+# Dual Tone Multi-Frequency (DTMF) Decoder
 
-## About:
-In my Python project focused on DTMF, I led a team of 3 to properly decode telephone keypad digits. To achieve this, we utilized data science and machine learning libraries, and Python scripting to decode the digits. Additionally, we developed an encoder to get the frequency of each digit and a decoder for the telephone keypad digits. Our final product is a Dual Tone Multi-Frequency Decoder made using Python, which takes audio files in WAV format of digital number dial tones, slices up each tone, and matches it with a database of numbers corresponding with its audio frequencies. To implement this, we made use of Fast Fourier Transform and implemented FFT into the Python program.
+## Overview
+This project presents a Dual Tone Multi-Frequency (DTMF) Decoder developed in Python. Aimed at decoding telephone keypad digits, our team of three utilized data science and machine learning libraries alongside Python scripting to analyze audio files. By employing Fast Fourier Transform (FFT), we accurately decoded WAV format tones into their corresponding numeric digits.
+
+## Features
+- **DTMF Encoding & Decoding**: Generates frequencies for dial tones and decodes them back to digits.
+- **Audio File Processing**: Analyzes WAV audio files to slice each tone and decode digits.
+- **FFT Implementation**: Utilizes FFT to match audio frequencies with predefined number database.
+
+## Technologies Used
+- Python for scripting and automation.
+- Libraries: NumPy for FFT, pandas for data manipulation, and SciPy for signal processing.
+
+## Getting Started
+To run this project:
+1. Clone the repository.
+2. Ensure you have Python and necessary libraries installed.
+3. Run the Jupyter Notebooks (`DTMF - Part 1 - Final.ipynb` through `DTMF - Part 4 - Final.ipynb`) in sequence to see the encoding, decoding, and analysis process.
+
+## How It Works
+The decoder takes an audio file, slices each tone, and uses FFT to compare frequencies against a database, identifying the corresponding digit for each tone sequence.
