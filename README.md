@@ -1,7 +1,7 @@
 
 # Dual Tone Multi-Frequency (DTMF) Decoder
 
-![Project Image](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/dtmf.jpg)
+![Project Image](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/dtmf.jpg)
 
 ## About
 This project was created as part of an assignment for CS 1330 - Computational Thinking Data Science. The goal was to develop a tool that decodes telephone keypad digits from audio signals, integrating concepts from data science, machine learning, and Python programming.
@@ -26,11 +26,12 @@ To get a local copy up and running, follow these steps:
 3. Run the Jupyter Notebooks (`DTMF - Part 1 - Final.ipynb` through `DTMF - Part 4 - Final.ipynb`) in sequence to experience the encoding, decoding, and analysis process.
 
 ## Contributions/References
-- **Team Members**: Dhruv Maniar (Project Leader), [Other Member Names and GitHub Profiles]
+- **Team Members**: Dhruv Maniar (Project Leader), Nafiz Imtiaz (Presentations)
 - **References**: Utilized various resources on FFT and digital signal processing.
 
 ## Learning Outcome
 Through this project, I learned how to apply FFT for audio signal processing and integrate machine learning libraries with Python scripting. The project covered concepts like audio file processing, digital signal decoding, and using scientific libraries for data analysis, developed primarily using Python.
 
 ## Screenshots/Demo
-[Include screenshots or a link to a demo of the project here.]
+(https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss.png)
+(https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss2.png)
