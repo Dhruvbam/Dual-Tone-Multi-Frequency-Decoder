@@ -10,7 +10,7 @@ This project was created as part of an assignment for CS 1330 - Computational Th
 The DTMF Decoder analyzes WAV audio files to decode telephone keypad digits. It utilizes Fast Fourier Transform (FFT) to match audio signals with predefined numeric digits, showcasing our team's ability to efficiently process and decode DTMF signals.
 
 ### Built With
-Python
+Python </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
 - Libraries used:
   - NumPy for FFT implementation
