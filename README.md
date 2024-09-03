@@ -20,7 +20,7 @@ The DTMF Decoder analyzes WAV audio files to decode telephone keypad digits. It 
 To get a local copy up and running, follow these steps:
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/repository_name.git
+   git clone https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder
    ```
 2. Ensure you have Python and the necessary libraries installed.
 3. Run the Jupyter Notebooks (`DTMF - Part 1 - Final.ipynb` through `DTMF - Part 4 - Final.ipynb`) in sequence to experience the encoding, decoding, and analysis process.
