@@ -33,5 +33,5 @@ To get a local copy up and running, follow these steps:
 Through this project, I learned how to apply FFT for audio signal processing and integrate machine learning libraries with Python scripting. The project covered concepts like audio file processing, digital signal decoding, and using scientific libraries for data analysis, developed primarily using Python.
 
 ## Screenshots/Demo
-(https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss.png)
-(https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss2.png)
+![Screenshots](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss.png).
+![Screenshots](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss2.png)
