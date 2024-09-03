@@ -4,7 +4,7 @@
 ![Project Image](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/dtmf.jpg)
 
 ## About
-This project was created as part of an assignment for CS 1330 - Computational Thinking Data Science. The goal was to develop a tool that decodes telephone keypad digits from audio signals, integrating concepts from data science, machine learning, and Python programming.
+This project was created as part of an assignment for Computational Thinking Data Science (CS 1330). The goal was to develop a tool that decodes telephone keypad digits from audio signals, integrating concepts from data science, machine learning, and Python programming.
 
 ## Description
 The DTMF Decoder analyzes WAV audio files to decode telephone keypad digits. It utilizes Fast Fourier Transform (FFT) to match audio signals with predefined numeric digits, showcasing our team's ability to efficiently process and decode DTMF signals.
