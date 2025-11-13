@@ -11,12 +11,12 @@ The DTMF Decoder processes WAV audio files to decode telephone keypad digits by 
 
 ## Features & Technical Details
 
-- **Real-World Audio Decoding:** Accurately decodes telephone keypad digits and symbols (0-9, *, #) from WAV dial tone files.
-- **Fast Fourier Transform (FFT):** Utilizes FFT to analyze frequency spectra for each audio segment, matching detected tones to DTMF standards.
-- **Noise Filtering:** Implements advanced DSP and filtering techniques to reliably identify tones, even in noisy recordings.
-- **End-to-End Audio Pipeline:** Covers audio synthesis, analog-to-digital conversion, detailed frequency analysis, and digit mapping.
-- **Hands-On Jupyter Workflow:** Step-by-step code in Python Notebooks encourages experimentation and interactive learning.
-- **Data Science Focus:** Integrates visualizations, robust data handling, and technical communication throughout the project.
+- **Real World Audio Decoding:** Accurately decodes telephone keypad dial tones from WAV files and maps it to digits and symbols (0-9, *, #).
+- **Fast Fourier Transform (FFT):** Utilizes Fast Fourier Transform to analyze frequency spectra for each audio segment, matching detected tones to DTMF standards.
+- **Noise Filtering:** Implements advanced Digital Signal Processing and noise filtering techniques to reliably identify tones, even in noisy recordings.
+- **End-to-End Audio Pipeline:** Covers audio synthesis, analog to digital conversion, detailed frequency analysis, and digit mapping.
+- **Hands On Jupyter Workflow:** Step by step code in Python Notebooks encourages experimentation and interactive learning.
+- **Data Science Focus:** Integrates visualizations, robust data handling and reinforcing experimentation and analytical debugging in a data science throughout the project.
 
 ## Built With
 
@@ -26,13 +26,6 @@ The DTMF Decoder processes WAV audio files to decode telephone keypad digits by 
 - <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" width="36" height="36" alt="SciPy" /></a> **SciPy**: For low-level digital signal processing and filtering.
 - <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="36" height="36" alt="Jupyter" /></a> **Jupyter Notebooks**: Interactive development and step-by-step demonstration.
 
-### Built With
-- Python <br />
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
-- Libraries used:
-  - NumPy for FFT implementation
-  - pandas for data manipulation
-  - SciPy for signal processing
 
 ## Installation
 To get a local copy up and running, follow these steps:
@@ -42,13 +35,6 @@ To get a local copy up and running, follow these steps:
    ```
 2. Ensure you have Python and the necessary libraries installed.
 3. Run the Jupyter Notebooks (`DTMF - Part 1 - Final.ipynb` through `DTMF - Part 4 - Final.ipynb`) in sequence to experience the encoding, decoding, and analysis process.
-
-## Contributions/References
-- **Team Members**: Dhruv Maniar (Project Leader), Nafiz Imtiaz (Presentations)
-- **References**: Utilized various resources on FFT and digital signal processing.
-
-## Learning Outcome
-Developing the DTMF Decoder provided in-depth experience in Digital Signal Processing (DSP) and real-time audio analysis. I gained practical skills in applying FFT for signal decomposition, implementing noise-filtering techniques to enhance accuracy, and managing real-world audio data in Python. This project also improved my problem-solving abilities, particularly in handling noisy data and optimizing processing speed for near-instantaneous results.
 
 ## Screenshots/Demo
 ![Screenshots](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/ss.png).
