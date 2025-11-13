@@ -1,5 +1,5 @@
 
-# Dual Tone Multi-Frequency (DTMF) Decoder
+# Dual Tone Multi Frequency (DTMF) Decoder
 
 ![Project Image](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/Images/dtmf.jpg)
 
