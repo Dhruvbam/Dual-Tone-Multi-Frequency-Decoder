@@ -13,7 +13,7 @@ The DTMF Decoder processes WAV audio files to decode telephone keypad digits by 
 
 - **Real World Audio Decoding:** Accurately decodes telephone keypad dial tones from WAV files and maps it to digits and symbols (0-9, *, #).
 - **Fast Fourier Transform (FFT):** Utilizes Fast Fourier Transform to analyze frequency spectra for each audio segment, matching detected tones to DTMF standards.
-- **Noise Filtering:** Implements advanced Digital Signal Processing and noise filtering techniques to reliably identify tones, even in noisy recordings.
+- **Noise Filtering:** Implements advanced digital signal processing and noise filtering techniques to reliably identify tones, even in noisy recordings.
 - **End-to-End Audio Pipeline:** Covers audio synthesis, analog to digital conversion, detailed frequency analysis, and digit mapping.
 - **Hands On Jupyter Workflow:** Step by step code in Python Notebooks encourages experimentation and interactive learning.
 - **Data Science Focus:** Integrates visualizations, robust data handling and reinforcing experimentation and analytical debugging in a data science throughout the project.
