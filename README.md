@@ -9,6 +9,23 @@ The DTMF Decoder is a Python-based tool developed to decode digits from audio si
 ## Description
 The DTMF Decoder processes WAV audio files to decode telephone keypad digits by analyzing the distinct dual-tone frequencies associated with each keypress. It uses the Fast Fourier Transform (FFT) for efficient frequency decomposition, allowing it to match audio signals with the standard DTMF frequency table. Noise-filtering techniques are implemented to ensure accuracy even in noisy environments, resulting in an effective and reliable decoder. This project emphasizes my ability to work with real-world audio data, leveraging Python libraries like NumPy and SciPy for frequency analysis and signal processing.
 
+## Features & Technical Details
+
+- **Real-World Audio Decoding:** Accurately decodes telephone keypad digits and symbols (0-9, *, #) from WAV dial tone files.
+- **Fast Fourier Transform (FFT):** Utilizes FFT to analyze frequency spectra for each audio segment, matching detected tones to DTMF standards.
+- **Noise Filtering:** Implements advanced DSP and filtering techniques to reliably identify tones, even in noisy recordings.
+- **End-to-End Audio Pipeline:** Covers audio synthesis, analog-to-digital conversion, detailed frequency analysis, and digit mapping.
+- **Hands-On Jupyter Workflow:** Step-by-step code in Python Notebooks encourages experimentation and interactive learning.
+- **Data Science Focus:** Integrates visualizations, robust data handling, and technical communication throughout the project.
+
+## Built With
+
+- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="36" height="36" alt="Python" /></a> **Python**: Primary language for audio processing workflows.
+- <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="36" height="36" alt="NumPy" /></a> **NumPy**: For FFT implementation and numerical operations.
+- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="36" height="36" alt="pandas" /></a> **pandas**: For data manipulation and table handling.
+- <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" width="36" height="36" alt="SciPy" /></a> **SciPy**: For low-level digital signal processing and filtering.
+- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="36" height="36" alt="Jupyter" /></a> **Jupyter Notebooks**: Interactive development and step-by-step demonstration.
+
 ### Built With
 - Python <br />
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
